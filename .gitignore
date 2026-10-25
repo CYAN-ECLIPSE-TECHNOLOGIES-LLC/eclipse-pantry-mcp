@@ -1,0 +1,9 @@
+data/
+__pycache__/
+keys/
+*.key
+*.pem
+.env
+.env.*
+*.pyc
+state/
