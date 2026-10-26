@@ -1,0 +1,8 @@
+{
+ "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+ "name": "io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/pantry",
+ "title": "Eclipse Pantry MCP",
+ "description": "The unattended-retail module \u2014 reads vending fleets' own telemetry and predicts stock-outs. It",
+ "version": "0.1.0",
+ "websiteUrl": "https://eclipsebazaar.com"
+}
